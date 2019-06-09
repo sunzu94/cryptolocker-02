@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoLocker.ConsoleTester", "CryptoLocker.ConsoleTester\CryptoLocker.ConsoleTester.csproj", "{298C1491-3A64-41FF-9889-01CA7F0BA80E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoLocker.Logic", "CryptoLocker.Logic\CryptoLocker.Logic.csproj", "{AA45E017-0A74-4EA0-9933-6E803CF37162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoLocker.WinForm", "CryptoLocker.WinForm\CryptoLocker.WinForm.csproj", "{7DF40D62-11C8-47A9-B310-48B8A553DAB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordService", "PasswordService\PasswordService.csproj", "{01C3A5A4-B42A-41DD-A5A7-E8AE350F971D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{298C1491-3A64-41FF-9889-01CA7F0BA80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298C1491-3A64-41FF-9889-01CA7F0BA80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298C1491-3A64-41FF-9889-01CA7F0BA80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298C1491-3A64-41FF-9889-01CA7F0BA80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA45E017-0A74-4EA0-9933-6E803CF37162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA45E017-0A74-4EA0-9933-6E803CF37162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA45E017-0A74-4EA0-9933-6E803CF37162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA45E017-0A74-4EA0-9933-6E803CF37162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF40D62-11C8-47A9-B310-48B8A553DAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF40D62-11C8-47A9-B310-48B8A553DAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF40D62-11C8-47A9-B310-48B8A553DAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF40D62-11C8-47A9-B310-48B8A553DAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C3A5A4-B42A-41DD-A5A7-E8AE350F971D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C3A5A4-B42A-41DD-A5A7-E8AE350F971D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C3A5A4-B42A-41DD-A5A7-E8AE350F971D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C3A5A4-B42A-41DD-A5A7-E8AE350F971D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
